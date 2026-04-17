@@ -79,7 +79,7 @@ This makes the system efficient and suitable for real-time browser execution.
 
 ## Demo
 
-.(https://codedbydiyarevanna.github.io/college-finder/)
+https://codedbydiyarevanna.github.io/college-finder/
 
 ## Acknowledgements
 
